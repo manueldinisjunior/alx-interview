@@ -1,2 +1,1 @@
-# ALX Interview
-
+## Pacal Triangle
