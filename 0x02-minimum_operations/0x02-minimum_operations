@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-'''Minimum Operations python3 challenge'''
+'''Minimum Operations Challenge'''
 
 
 def minOperations(n):
-    '''calculates the fewest number of
+    '''Calculates fewest number of
     operations needed to result in exactly n H
-    characters in this file.
-    Returns:
+    characters in the file.
+    It Returns:
         Integer : if n is impossible to achieve, return 0
     '''
     pasted_chars = 1  # how many chars in the file
