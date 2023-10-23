@@ -17,4 +17,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+* **Manuel Dinis Júnior** - [manueldinisjunior](https://github.com/manueldinisjunior)
