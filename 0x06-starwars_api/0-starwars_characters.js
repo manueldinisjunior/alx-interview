@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
 const request = require('request');
-
+ 
 const req = (arr, i) => {
   if (i === arr.length) return;
   request(arr[i], (err, response, body) => {
