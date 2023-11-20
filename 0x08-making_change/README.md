@@ -1,5 +1,7 @@
 # Making Change
 
+![alxx](https://user-images.githubusercontent.com/110563322/185378889-8d6595c4-b441-4a6d-8700-4c0043886cdf.jpg)
+
 Given a pile of coins of different values, determine the fewest number of coins needed to meet
 a given amount total. Use function definition below
 
@@ -13,3 +15,4 @@ Note:
 
 1. 'coins' is a list of the values of the coins in your possession.
 2. The value of a coins will always be an integer greater than 0
+
