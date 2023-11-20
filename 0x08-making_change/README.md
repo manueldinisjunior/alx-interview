@@ -1,18 +1,18 @@
-# Making Change
+## Making Change
 
 ![alxx](https://user-images.githubusercontent.com/110563322/185378889-8d6595c4-b441-4a6d-8700-4c0043886cdf.jpg)
 
-Given a pile of coins of different values, determine the fewest number of coins needed to meet
-a given amount total. Use function definition below
+# Learning Objectives
 
-```
-def makeChange(coins, total):
-```
+* Given a pile of coins of different values, determine the fewest number of coins needed to meet a given amount total.
 
-Note:
-    - if total is 0 or less, return 0
-    - if total cannot be met by any number of coins provided, return -1
+* Prototype: def makeChange(coins, total)
+* Return: fewest number of coins needed to meet total
+       * If total is 0 or less, return 0
+       * If total cannot be met by any number of coins you have, 
 
-1. 'coins' is a list of the values of the coins in your possession.
-2. The value of a coins will always be an integer greater than 0
 
+
+# Authors
+
+- [@manueldinisjunior](https://github.com/manueldinisjunior)
